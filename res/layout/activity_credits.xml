@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/background2"
+    tools:context=".CreditsActivity" >
+	
+<!--     <TextView -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:textSize="50sp" -->
+<!--         android:textColor="#191" -->
+<!--         android:layout_centerHorizontal="true" -->
+<!--         android:text="CREDITS" /> -->
+    
+    <ImageView 
+        android:id="@+id/imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/credits_scroll" />
+        
+    <TextView 
+    	android:layout_width="200dp"
+    	android:layout_height="wrap_content"
+    	android:layout_centerHorizontal="true"
+    	android:layout_centerVertical="true"
+    	android:textSize="20sp"
+    	android:textColor="#111"
+    	android:text="@string/credits" />
+
+</RelativeLayout>

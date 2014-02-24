@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Adventure: Caelopia</string>
+    <string name="button_send">Send</string>
+    <string name="button_ng">New Game</string>
+    <string name="button_con">Continue Game</string>
+    <string name="button_sett">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_credits">Credits</string>
+    <string name="edit_message">Enter Text Here</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_credits">CreditsActivity</string>
+    <string name="credits">Game Developer:\nDavid Rowe\n\nStory Developer:\nDavid Rowe\n\nGraphic Designer:\nDavid Rowe,\nAutumn Eberling</string>
+
+</resources>
