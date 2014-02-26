@@ -33,6 +33,8 @@
         <activity
             android:name="com.dude.theadventurecaelopia.NewGameActivity"
             android:label="@string/title_activity_game"
+            android:screenOrientation="landscape"
+            android:configChanges="keyboardHidden|orientation"
             android:parentActivityName="com.dude.theadventurecaelopia.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
